@@ -26,3 +26,9 @@ For API Access the [STAC protocol](https://stacspec.org/en) is used.
 Using the [STAC Browser](https://radiantearth.github.io/stac-browser/#/external/earth-search.aws.element84.com/v0/collections/sentinel-s2-l2a-cogs/items/S2B_52VDL_20230330_0_L2A?.language=en) is recommended.\
 
 This tutorial is adopted from the [Carpentries Geospatial Python](https://carpentries-incubator.github.io/geospatial-python/)
+
+For a longer course take a look at [PythonGIS](https://pythongis.org/index.html)
+
+For spatial analysis in Python check out [LibPySAL](https://pysal.org/libpysal/)
+
+
