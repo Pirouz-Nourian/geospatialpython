@@ -23,4 +23,6 @@ If you have a UT account you can also run the codes on [CRIB](https://crib.utwen
 Getting raster data from [Copernicus Sentinel2](https://scihub.copernicus.eu/dhus/#/home)
 API Access will be used in the workshop.
 For API Access the [STAC protocol](https://stacspec.org/en) is used.
-Using the [STAC Browser](https://radiantearth.github.io/stac-browser/#/external/earth-search.aws.element84.com/v0/collections/sentinel-s2-l2a-cogs/items/S2B_52VDL_20230330_0_L2A?.language=en) is recommended.
+Using the [STAC Browser](https://radiantearth.github.io/stac-browser/#/external/earth-search.aws.element84.com/v0/collections/sentinel-s2-l2a-cogs/items/S2B_52VDL_20230330_0_L2A?.language=en) is recommended.\
+
+This tutorial is adopted from the [Carpentries Geospatial Python](https://carpentries-incubator.github.io/geospatial-python/)
