@@ -1,5 +1,8 @@
 # Geospatial Python: Vector and Raster Computing
 
+# [Geospatial Computing course from Carpentries](https://carpentries-incubator.github.io/geospatial-python/)
+# [Python GIS Course](https://automating-gis-processes.github.io/2016/Lesson1-Intro-Python-GIS.html)
+
 Installations for VS Code (conda):
 
 Create a conda environment from the yml file:
